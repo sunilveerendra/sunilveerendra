@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sunilveerendra
-- 👀 I’m interested in Data Science projects
-- 🌱 I’m currently learning Machine leaarning
-- 💞️ I’m looking to collaborate on Data science projects
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on AI and ML projects
 - 📫 How to reach me
 - Mail me at sunilveerendra99@gmail.com
 
